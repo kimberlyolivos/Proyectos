@@ -11,5 +11,6 @@ Esta es una lista detallada de los proyectos incluidos en este repositorio:
 ## Herramientas utilizadas:
 
 Las herramientas empleadas para desarrollar los proyectos de este repositorio son:
-- **Lenguaje de programación**: Python
+- **Lenguaje de programación**: Python, R
 - **Librerías**: Pandas, Matplotlib, Seaborn
+- **Programa de visualización**: Power BI
